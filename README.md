@@ -22,10 +22,12 @@ heroku git:remote -a flask-heru
 git push heroku master
 ``` 
 
+```
 Enumerating objects: 1614, done.
 Counting objects: 100% (1614/1614), done.
 Delta compression using up to 4 threads
 Compressing objects: 100% (1589/1589), done.
 Writing objects: 100% (1614/1614), 5.11 MiB | 350.00 KiB/s, done.
 Total 1614 (delta 121), reused 0 (delta 0), pack-reused 0
+```
 
